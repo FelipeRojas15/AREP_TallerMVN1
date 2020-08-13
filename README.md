@@ -45,5 +45,5 @@ $ mvn javadoc:test-aggregate
 $ mvn javadoc:test-aggregate-jar
 ```
 ## Lincencia
-Este proyecto posee la licencia MIT. Para mas detalles de click aqui 
+Este proyecto posee la licencia MIT. Para mas detalles [Licencia](https://github.com/FelipeRojas15/AREP_TallerMVN1/blob/master/LICENSE.txt).
 
