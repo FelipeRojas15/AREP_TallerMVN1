@@ -1,6 +1,7 @@
 # Introduction to complex systems, JAVA, MVN AND GIT
-En este taller se realizará los cálculos de desviación estándar y la media de una tabla con n números, por medio de una
-LinkedList con propia implementación dentro de un proyecto Maven Java, con sus respectivas pruebas.
+> En este taller se realizará los cálculos de desviación estándar y la media de una tabla con n números, por medio de una
+> LinkedList con propia implementación dentro de un proyecto Maven Java, con sus respectivas pruebas.
+> Si quiere saber mas sobre el proyecto, puede leer el [Informe](https://github.com/FelipeRojas15/AREP_TallerMVN1/blob/master/Informe_Taller.pdf).
 
 ## Requerimientos 
 Se necesita que tenga instalado en su computadora:
