@@ -45,6 +45,9 @@ $ mvn javadoc:test-jar
 $ mvn javadoc:test-aggregate
 $ mvn javadoc:test-aggregate-jar
 ```
+## Autor
+**Brayan Felipe Rojas Bernal**
 ## Lincencia
 Este proyecto posee la licencia MIT. Para mas detalles [Licencia](https://github.com/FelipeRojas15/AREP_TallerMVN1/blob/master/LICENSE.txt).
+
 
