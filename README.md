@@ -28,12 +28,14 @@ $ java -cp target/tallerLinkedList-1.0-SNAPSHOT.jar edu.escuelaing.arem.app.App
 ```sh
 $ AREP_TallerMVN1/src/main/java/edu/escuelaing/arem/app/App.java
 ``` 
+![Resultado de la prueba ](https://i.ibb.co/G7Zt4w3/result-Problem.png)
 - Cambiar el archivo que se esta leyendo por **dataDos.txt** 
 
 > **Ejecutar las pruebas:** 
 ```sh
 $ mvn test
 ```
+![Resultado de la prueba ](https://i.ibb.co/ZTbXYzY/TestRun.png)
 > **Generar Javadoc:**
 ```sh
 $ mvn javadoc:javadoc
